@@ -1,9 +1,6 @@
 # 📌 Robust Virtual Content Integration and Occlusion Handling in 2D Video Streams  
 
 **Author:** Aashka Desai  
-**Institution:** Rochester Institute of Technology (RIT)  
-**Advisor:** Dr. Fawad Ahmad  
-**Department:** Computer Science, GCCIS  
 **Year:** 2024  
 
 ---
